@@ -1,2 +1,4 @@
-<!--pages/classic/classic.wxml-->
-<text>pages/classic/classic.wxml</text>
+<view class="color1 chunk"/>
+<view class="color2 chunk"/>
+<view class="color3 chunk"/>
+

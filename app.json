@@ -5,7 +5,10 @@
   "window" : {
     "navigationBarBackgroundColor" : "#dddd00",
     "navigationBarTitleText" : "林间有风",
-    "navigationBarTextStyle" : "black"
-    
+    "navigationBarTextStyle" : "black",
+    "navigationStyle" : "default",
+    "backgroundColor" : "#ffffff",
+    "backgroundTextStyle" : "dark",
+    "enablePullDownRefresh" : false
   }
 }
