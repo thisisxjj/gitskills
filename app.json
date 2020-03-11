@@ -1,14 +1,11 @@
 {
-  "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+  "pages" : [
+    "pages/classic/classic"
   ],
-  "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
-  },
-  "style": "v2",
-  "sitemapLocation": "sitemap.json"
+  "window" : {
+    "navigationBarBackgroundColor" : "#dddd00",
+    "navigationBarTitleText" : "林间有风",
+    "navigationBarTextStyle" : "black"
+    
+  }
 }
