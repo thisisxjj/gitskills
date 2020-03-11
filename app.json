@@ -3,8 +3,8 @@
     "pages/classic/classic"
   ],
   "window" : {
-    "navigationBarBackgroundColor" : "#dddd00",
-    "navigationBarTitleText" : "林间有风",
+    "navigationBarBackgroundColor" : "#ffffff",
+    "navigationBarTitleText" : "摩天大楼",
     "navigationBarTextStyle" : "black",
     "navigationStyle" : "default",
     "backgroundColor" : "#ffffff",

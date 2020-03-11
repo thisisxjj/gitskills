@@ -1,5 +1,1 @@
-<view class="container">
-    <view class="color1 chunk">1</view>
-    <view class="color2 chunk">2</view>
-    <view class="color3 chunk">3</view>
-</view>
+<v-like />
