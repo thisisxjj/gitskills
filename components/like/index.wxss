@@ -11,11 +11,7 @@
 }
 
 .container text{
-    /* font-family: "PingFangSC-Thin"; */
-    font-size: 24rpx;
-    line-height: 24rpx;
-    color: #bbb;
-    position: relative;
+    fon
     bottom: 10rpx;
-    left: 6rpx;
+
 }
