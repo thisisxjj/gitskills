@@ -1,14 +1,14 @@
 {
-  "pages" : [
+  "pages": [
     "pages/classic/classic"
   ],
-  "window" : {
-    "navigationBarBackgroundColor" : "#ffffff",
-    "navigationBarTitleText" : "摩天大楼",
-    "navigationBarTextStyle" : "black",
-    "navigationStyle" : "default",
-    "backgroundColor" : "#ffffff",
-    "backgroundTextStyle" : "dark",
-    "enablePullDownRefresh" : false
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "摩天大楼",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "default",
+    "backgroundColor": "#ffffff",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": false
   }
 }

@@ -11,7 +11,10 @@
 }
 
 .container text{
-    fon
+    font-size: 24rpx;
+    line-height: 24rpx;
+    color: #bbb;
+    position: relative;
     bottom: 10rpx;
-
+    left: 5rpx;
 }
